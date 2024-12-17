@@ -1,0 +1,35 @@
+
+body{
+    font-family: Arial,sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+.container{
+    background-color: #ffff;
+    border-radius:8px ;
+    box-shadow: 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    max-width: 500;
+    margin: auto;
+}
+button{
+    margin: 10px;
+    padding: 10px 20 px;
+    font-size: 16px;
+    font:none;
+    border-radius:4px ;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: #007bff;
+    color: #f0f0f0;
+}
+#text{
+    margin-top: 20 px;
+    font-size: 20 px;
+    font-weight: bold;
+}
